@@ -13,8 +13,7 @@
 
 ### 🛠 **Tech Stacks**
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google+Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
@@ -27,7 +26,7 @@
 
 <h3><b>Overview</b></h3>
 <div style="display:flex; margin-top:10px;">
-<div >
+<div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-jeong-oh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
