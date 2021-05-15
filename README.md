@@ -22,17 +22,17 @@
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<br/><br />
+<br />
 <hr>
 
 <h3><b>Overview</b></h3>
 <div style="display:flex; margin-top:10px;">
-<div style="display:left;">
+<div >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-jeong-oh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<div style="display:inline-block; margin-left:10px">
+<div style="margin-left:10px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se-jeong-oh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
