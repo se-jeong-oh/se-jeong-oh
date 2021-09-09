@@ -1,7 +1,7 @@
 ## **Hi There, I am Sejeong Oh!** 👋
 
 
-### 🔥 **Dreaming Data Engineer**
+### 🔥 **Dreaming BigData Engineer**
 - Majoring in CSE
 - I am an ambitious student!
 
