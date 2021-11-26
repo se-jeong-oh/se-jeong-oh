@@ -1,13 +1,13 @@
 ## **Hi There, I am Sejeong Oh!** 👋
 
 
-### 🔥 **Dreaming BigData Engineer**
+### 🔥 **Dreaming ML system Engineer**
 - Majoring in CSE
 - I am an ambitious student!
 
 ### 🍑 **Interest**
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Colabaratory
+- GPU Scheduling
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
