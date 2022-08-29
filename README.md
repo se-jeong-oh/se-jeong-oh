@@ -1,7 +1,7 @@
 ## **Hi There, I am Sejeong Oh!** 👋
 
 
-### 🔥 **Dreaming ML system Engineer**
+### 🔥 **Dreaming system Engineer**
 - Majoring in CSE
 - I am an ambitious student!
 
