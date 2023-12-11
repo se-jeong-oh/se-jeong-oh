@@ -1,9 +1,9 @@
 ## **Hi There, I am Sejeong Oh!** 👋
 
 ### 🍑 **Interest**
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- GPU Scheduling, Optimization
-- Operation Research
+- multi-GPU DNN train & inference Optimization
+- Stream Processing Optimization
+- on-device Generative AI
 - Leadership, Mentoring, Writing, Presentation
 
 ### 🛠 **Tech Stacks**
@@ -19,12 +19,6 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <br />
 <hr>
-
-<h3><b>Overview</b></h3>
-<div style="display:flex; margin-top:10px;">
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-jeong-oh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="margin-left:10px">
